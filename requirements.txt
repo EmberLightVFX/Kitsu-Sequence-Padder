@@ -1,0 +1,2 @@
+gazu==0.8.27
+python-dotenv==0.20.0
