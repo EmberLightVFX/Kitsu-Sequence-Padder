@@ -2,6 +2,7 @@
 Quick add padding zeroes to your sequence's name.
 
 Installation:
+
 0. I highly recommend running this in a venv.
 1. Install requirements:
 ```python
